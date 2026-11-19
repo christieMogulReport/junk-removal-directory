@@ -51,7 +51,7 @@ Volume tells you what fits. Weight tells you what you will pay. Heavy debris hit
 
 | Material | EPA weight estimate |
 |---|---|
-| Mixed construction and demolition debris (bulk) | 484 lb per cubic yard |
+| Mixed construction and demolition debris (composite to bulk) (c) | 417 to 484 lb per cubic yard |
 | Asphalt shingles, loose | about 419 lb per cubic yard |
 | Sheetrock (drywall) scrap, loose | about 394 lb per cubic yard |
 | Concrete scrap, loose | 1,855 lb per cubic yard |
@@ -63,12 +63,12 @@ Volume tells you what fits. Weight tells you what you will pay. Heavy debris hit
 | Dryer | 130 lb each |
 | Mattress | 55 lb each |
 
-*Source: [EPA Standard Volume-to-Weight Conversion Factors](https://www.epa.gov/sites/default/files/2016-03/documents/conversions.pdf). These are averages, and wet debris weighs more.*
+*Sources: all rows except the mixed construction debris row are from the [EPA Standard Volume-to-Weight Conversion Factors table](https://www.epa.gov/sites/default/files/2016-03/documents/conversions.pdf). (c) The mixed construction and demolition debris row is from a different EPA document, the [Volume-to-Weight Conversion Factors memorandum (April 2016)](https://www.epa.gov/sites/default/files/2016-04/documents/volume_to_weight_conversion_factors_memorandum_04192016_508fnl.pdf), which lists "Remainder/Composite Construction and Demolition" at 417 lb per cubic yard and "Construction & Demolition Bulk" at 484 lb per cubic yard. These are averages, and wet debris weighs more. The two EPA documents use different methods, so their figures for the same material can differ.*
 
 **Rough arithmetic using those numbers** (our math, not a quote):
 
 - A 10 yard box filled with loose concrete scrap would be about 10 × 1,855 = 18,550 lb, or roughly **9 tons**. A 10 yard allowance of 1 to 3 tons would be used up by a fraction of a box.
-- A 20 yard box filled to the top with mixed construction debris at 484 lb per cubic yard would be about 9,680 lb, roughly **4.8 tons**. That is above the 2 to 4 ton range many haulers include.
+- A 20 yard box filled to the top with mixed construction debris at EPA's 417 to 484 lb per cubic yard would be about 8,340 to 9,680 lb, roughly **4.2 to 4.8 tons**. That is above the 2 to 4 ton range many haulers include.
 - The same 20 yard box of furniture and household clutter will weigh far less, which is why household cleanouts are usually limited by space and remodels and demolition by weight.
 
 **What to do about it:** Tell the hauler exactly what you are throwing away. For concrete, brick, dirt, or roofing, ask for a "heavy material" or "clean load" dumpster. Haulers commonly sell small boxes, often 10 yard or smaller, for this, and may require the material to be kept separate from other trash. Do not mix it into a general debris box.
@@ -104,7 +104,7 @@ Compare that with a dumpster, where Angi's weekly ranges are $225 to $575 for 10
 
 1. **List what is going.** Furniture and clutter, or debris from demolition, roofing, concrete, or dirt?
 2. **Estimate volume in pickup-truck loads.** Use the chart above. If you are unsure, compare piles to a pickup bed.
-3. **Flag the heavy stuff.** Anything on the EPA weight table above that is heavy per cubic yard (concrete, brick, soil, gravel, shingles) means asking about weight allowance, or a heavy-material box.
+3. **Flag the heavy stuff.** Anything on the weight table above that is heavy per cubic yard (concrete, brick, soil, gravel) means asking about weight allowance, or a heavy-material box.
 4. **Measure your space.** Allow the box length (about 12 feet for a 10 yard, about 22 feet for 20 to 40 yard) plus room for the truck. WM asks for a level surface, no low wires or branches, and a long straight approach for drop-off.
 5. **Add a cushion.** If you are between sizes, ask the hauler about the next size up, and compare the small price difference to the cost of a second delivery.
 
@@ -155,5 +155,6 @@ Items commonly banned from roll-offs include batteries, paint and other liquids,
 - [Roll-Off Dumpster Direct: FAQs](https://www.rolloffdumpsterdirect.com/faqs/) (weight billing, fill line, wasted-trip fee)
 - [Tennessee Contractor Guide: Dumpster size chart](https://tennesseecontractorguide.com/guides/dumpster-size-guide) (20 yard "most popular" claim)
 - [U.S. EPA: Standard Volume-to-Weight Conversion Factors](https://www.epa.gov/sites/default/files/2016-03/documents/conversions.pdf) (material weights)
+- [U.S. EPA: Volume-to-Weight Conversion Factors memorandum, April 2016](https://www.epa.gov/sites/default/files/2016-04/documents/volume_to_weight_conversion_factors_memorandum_04192016_508fnl.pdf) (mixed construction and demolition debris, 417 and 484 lb per cubic yard)
 
 *Prices and policies change. Figures are published ranges, not quotes. Confirm with your hauler before you book. General information only, not legal advice.*
