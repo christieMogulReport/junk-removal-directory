@@ -4,7 +4,7 @@ Rules: city-agnostic guides first. Every number needs a named public source link
 
 ## Core guides (city-agnostic)
 1. [DONE 2026-11-18] dumpster-rental-sizes-explained: 10/15/20/30/40 yard sizes, weights, prices
-2. junk-removal-vs-dumpster-rental-which-is-cheaper: deeper cost comparison by project type
+2. [DONE 2026-11-18] junk-removal-vs-dumpster-rental-which-is-cheaper: deeper cost comparison by project type
 3. what-junk-removal-companies-wont-take: hazardous waste, paint, propane, tires, electronics, by-hauler lists
 4. how-much-does-junk-removal-cost: pricing by truckload, item, minimum fees (Angi, HomeAdvisor, 1-800-GOT-JUNK/College Hunks public pages)
 5. how-much-does-a-dumpster-rental-cost: price by size, week, city, hidden fees
