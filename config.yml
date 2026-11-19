@@ -1,0 +1,23 @@
+site_name: Junk & Dumpster Guide
+site_tagline: Plain-English guides to junk removal and dumpster rental, with sourced prices.
+site_description: "Practical, sourced guides for cleanouts, moves, and renovations: which dumpster size to rent, what junk removal costs, what haulers won't take, and what to ask before you book."
+site_owner: Black Swan Sibyl
+language: en
+
+# Absolute site origin, no trailing slash. PLACEHOLDER until a domain/GitHub Pages repo is set up
+# (siblings use <niche>.christiejustice.com). Update when the real domain exists.
+base_url: "https://junk.christiejustice.com"
+
+# Empty because the site is served from the domain root.
+base_path: ""
+
+# Links in the footer on every page.
+footer_links:
+  - label: About & disclosure
+    path: /about/
+
+# No affiliate links are published yet. When the first one is added, set this to a
+# disclosure sentence (shown in every page footer). Suggested wording:
+# "Some links on this site are affiliate links. If you book or buy through them we may earn a
+# commission at no extra cost to you."
+affiliate_disclosure: ""
