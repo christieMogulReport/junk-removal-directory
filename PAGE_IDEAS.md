@@ -18,7 +18,7 @@ Rules: city-agnostic guides first. Every number needs a named public source link
 13. how-to-load-a-dumpster-without-overfilling: loading order, fill line, evenly distributed
 14. what-can-and-cant-go-in-a-dumpster: master list with sources
 15. questions-to-ask-before-hiring-a-junk-removal-company: licensing, insurance, pricing, donation/recycling
-16. junk-removal-scams-and-red-flags: bait-and-switch quotes, illegal dumping liability (FTC/BBB/state AG)
+16. [DONE 2026-11-20] junk-removal-scams-and-red-flags: shipped as junk-removal-and-dumpster-rental-scams-red-flags (fake dumpster ads, cash-only dumpers, bait-and-switch fees)
 
 ## Project-based guides
 17. garage-cleanout-checklist-and-what-size-dumpster
