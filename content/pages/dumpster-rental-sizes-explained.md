@@ -135,7 +135,7 @@ Items commonly banned from roll-offs include batteries, paint and other liquids,
 
 **Do I need a permit?** If the dumpster stays on your own driveway or property, often not, but if it goes on a street or sidewalk you may need one. Angi puts permit cost at roughly $10 to $100. Check with your city or county, and some homeowners associations have rules too.
 
-**Can I put a hot tub, sofa, or mattress in a dumpster?** Furniture usually yes. Mattresses often carry a per-item fee, and a few places ban them. Hot tubs are bulky and heavy, so ask first. A future guide will cover those items.
+**Can I put a hot tub, sofa, or mattress in a dumpster?** Furniture usually yes. Mattresses often carry a per-item fee, and a few places ban them. Hot tubs are bulky and heavy, so ask first. For mattresses, see our [mattress disposal guide](/mattress-disposal-how-to-get-rid-of-a-mattress/).
 
 **Can I overfill or load heavy stuff on one side?** No. Load evenly, keep debris below the top edge, and put the heaviest items on the bottom and spread out.
 
