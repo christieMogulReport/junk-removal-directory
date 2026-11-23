@@ -34,6 +34,8 @@ Angi's 2026 truckload prices (based on a 20-yard truck):
 
 *Source: [Angi: How much does junk removal cost? (2026)](https://www.angi.com/articles/how-much-does-junk-removal-cost.htm). HomeAdvisor publishes the same table ([HomeAdvisor](https://www.homeadvisor.com/cost/cleaning-services/remove-waste/)).*
 
+For single-item prices, minimum fees, and surcharges, see [How much does junk removal cost?](/how-much-does-junk-removal-cost/).
+
 **Dumpster pricing.** Angi's 2026 weekly ranges are **$225–$575 for a 10 yard, $275–$700 for a 20 yard, $300–$725 for a 30 yard, and $350–$800 for a 40 yard** ([Angi](https://www.angi.com/articles/cost-dumpster-rental.htm)). The price usually includes delivery, pickup, the rental period, and a set weight limit. Budget Dumpster says its weight limits range from 1 to 10 tons, depending on the box and what you throw away ([Budget Dumpster](https://www.budgetdumpster.com/pricing.php)). Prices vary a lot by source. Dumpsters.com, a rental company, puts its national average at $687, with a range of $306 to $1,583 ([Dumpsters.com](https://www.dumpsters.com/blog/dumpster-rentals-vs-junk-removal)). For dimensions, weight allowances, and what fits in each size, see our guide to [dumpster rental sizes](/dumpster-rental-sizes-explained/).
 
 ## Cost by project type
