@@ -161,7 +161,7 @@ Some items are refused outright. See [What junk removal companies won't take](/w
 - **Use free hazardous waste drop-offs.** Angi says local household hazardous waste programs often charge no disposal fee if you bring the items yourself ([Angi](https://www.angi.com/articles/how-much-does-junk-removal-cost.htm)).
 - **Avoid peak season and rush jobs** when you can ([Angi](https://www.angi.com/articles/how-much-does-junk-removal-cost.htm)).
 - **Look for coupons.** For example, Junk King posted a $30-off coupon through Dec. 31, 2026, at participating locations, not valid below the minimum ([Junk King](https://www.junk-king.com/pricing)).
-- **Consider a dumpster for big or heavy jobs.** If you can do the loading, a roll-off can cost less for large cleanouts. Compare in our [junk removal vs. dumpster guide](/junk-removal-vs-dumpster-rental-which-is-cheaper/) and pick a size with [dumpster rental sizes explained](/dumpster-rental-sizes-explained/).
+- **Consider a dumpster for big or heavy jobs.** If you can do the loading, a roll-off can cost less for large cleanouts. Compare in our [junk removal vs. dumpster guide](/junk-removal-vs-dumpster-rental-which-is-cheaper/), check prices and hidden fees in [how much does a dumpster rental cost?](/how-much-does-a-dumpster-rental-cost/), and pick a size with [dumpster rental sizes explained](/dumpster-rental-sizes-explained/).
 
 ## FAQ
 

@@ -77,7 +77,7 @@ Extra weight is billed per ton or per pound. Angi puts typical overweight charge
 
 ## How much does a dumpster rental cost?
 
-Angi's 2026 data puts the national average rental at about **$386**, with most homeowners paying **$294 to $480** for a typical rental, and extremes from about $200 up to about $800 ([Angi](https://www.angi.com/articles/cost-dumpster-rental.htm)). Price depends on size, weight, debris type, rental length, and where you live. Angi's examples of city ranges run from roughly $300 to $750 in Columbus, OH to $500 to $1,000 in New York City.
+Angi's 2026 data puts the national average rental at about **$386**, with most homeowners paying **$294 to $480** for a typical rental, and extremes from about $200 up to about $800 ([Angi](https://www.angi.com/articles/cost-dumpster-rental.htm)). Price depends on size, weight, debris type, rental length, and where you live. Angi's examples of city ranges run from roughly $300 to $750 in Columbus, OH to $500 to $1,000 in New York City. For a full breakdown of prices by size, rental period, and city, plus every common add-on fee, see [How much does a dumpster rental cost?](/how-much-does-a-dumpster-rental-cost/)
 
 Common add-ons to look for in the quote:
 
