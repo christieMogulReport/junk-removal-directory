@@ -9,7 +9,7 @@ Rules: city-agnostic guides first. Every number needs a named public source link
 4. [DONE 2026-11-22] how-much-does-junk-removal-cost: pricing by truckload, item, minimum fees (Angi, HomeAdvisor, 1-800-GOT-JUNK/College Hunks public pages)
 5. [DONE 2026-11-23] how-much-does-a-dumpster-rental-cost: price by size, week, city, hidden fees
 6. [DONE 2026-11-21] mattress-disposal-how-to-get-rid-of-a-mattress: haulers, bulky pickup, recycling programs (Bye Bye Mattress / state programs)
-7. appliance-haul-away-refrigerators-washers-dryers: refrigerant rules, retailer haul-away, scrap options
+7. [DONE 2026-11-25] appliance-haul-away-refrigerators-washers-dryers: refrigerant rules, retailer haul-away, scrap options
 8. hot-tub-removal-cost-and-options: demolition, haul-away, resale, electrical disconnect
 9. estate-cleanout-checklist: sort, sell, donate, haul, hire; timeline
 10. roll-off-dumpster-permit-rules: when you need a street permit, who to call, typical cost, HOA rules

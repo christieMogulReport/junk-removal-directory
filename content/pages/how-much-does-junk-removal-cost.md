@@ -100,6 +100,8 @@ If you only have one or two things, you'll usually pay a single-item price or th
 
 *Source for both tables: [Angi: How much does junk removal cost? (2026)](https://www.angi.com/articles/how-much-does-junk-removal-cost.htm).*
 
+Cheaper ways to get rid of a fridge, washer, or dryer (retailer haul-away, utility rebates, city pickup, scrap yards) are covered in [Appliance haul-away](/appliance-haul-away-refrigerators-washers-dryers/).
+
 **Online item pricing can be lower.** LoadUp's published sample for one Atlanta ZIP code (30312) shows a couch at $30 and a queen mattress at $35, plus a $59 area service fee, for a $124 guaranteed total ([LoadUp](https://goloadup.com/pricing/)). Because the service fee is charged once per pickup, adding a second or third item raises the total much less than the first one. That sample is one ZIP code. Enter your own to see your price.
 
 For more on mattresses specifically, including free city pickup and state recycling programs, see our [mattress disposal guide](/mattress-disposal-how-to-get-rid-of-a-mattress/).

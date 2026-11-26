@@ -86,7 +86,7 @@ Best Buy's recycling page says most stores accept up to ten items per household 
 
 **Can I put a propane tank in a dumpster?** No. Budget Dumpster, Dumpsters.com, and WM all prohibit propane tanks. Contact a propane company, your fire department, or an HHW center ([Dumpsters.com](https://www.dumpsters.com/resources/prohibited-items)).
 
-**Why will a junk hauler take my refrigerator when a dumpster can't?** Refrigerants are the issue. Dumpster companies ban Freon appliances unless a professional removes the refrigerant ([Dumpsters.com](https://www.dumpsters.com/resources/prohibited-items)). Some junk haulers, like 1-800-GOT-JUNK and Junk King, list refrigerators among the items they take ([1-800-GOT-JUNK](https://www.1800gotjunk.com/us_en/what-we-take), [Junk King](https://www.junk-king.com/what-we-take)).
+**Why will a junk hauler take my refrigerator when a dumpster can't?** Refrigerants are the issue. Dumpster companies ban Freon appliances unless a professional removes the refrigerant ([Dumpsters.com](https://www.dumpsters.com/resources/prohibited-items)). Some junk haulers, like 1-800-GOT-JUNK and Junk King, list refrigerators among the items they take ([1-800-GOT-JUNK](https://www.1800gotjunk.com/us_en/what-we-take), [Junk King](https://www.junk-king.com/what-we-take)). For every way to get rid of an old fridge, washer, or dryer, including utility rebates, city Freon pickup, and retailer haul-away, see [Appliance haul-away](/appliance-haul-away-refrigerators-washers-dryers/).
 
 **Who removes asbestos?** Not junk haulers or dumpster companies. The EPA recommends a trained, accredited asbestos professional for removal and major repairs ([EPA](https://www.epa.gov/asbestos/protect-your-family-exposures-asbestos)).
 
