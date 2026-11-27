@@ -100,7 +100,7 @@ If you only have one or two things, you'll usually pay a single-item price or th
 
 *Source for both tables: [Angi: How much does junk removal cost? (2026)](https://www.angi.com/articles/how-much-does-junk-removal-cost.htm).*
 
-Cheaper ways to get rid of a fridge, washer, or dryer (retailer haul-away, utility rebates, city pickup, scrap yards) are covered in [Appliance haul-away](/appliance-haul-away-refrigerators-washers-dryers/).
+Cheaper ways to get rid of a fridge, washer, or dryer (retailer haul-away, utility rebates, city pickup, scrap yards) are covered in [Appliance haul-away](/appliance-haul-away-refrigerators-washers-dryers/). Hot tub costs by type, the electrician disconnect, draining rules, and the dumpster route are covered in [Hot tub removal: cost and options](/hot-tub-removal-cost-and-options/).
 
 **Online item pricing can be lower.** LoadUp's published sample for one Atlanta ZIP code (30312) shows a couch at $30 and a queen mattress at $35, plus a $59 area service fee, for a $124 guaranteed total ([LoadUp](https://goloadup.com/pricing/)). Because the service fee is charged once per pickup, adding a second or third item raises the total much less than the first one. That sample is one ZIP code. Enter your own to see your price.
 
@@ -134,7 +134,7 @@ Local examples: Fire Dawgs Junk Removal (Indiana, Ohio, and Houston) starts at *
 | Mattresses and box springs | 1-800-GOT-JUNK says items like tires and mattresses may have eco-fees ([1-800-GOT-JUNK](https://www.1800gotjunk.com/us_en/pricing)). Same Day Haulers: $95 each ([Same Day Haulers](https://www.samedayhaulers.com/pricing)) |
 | Appliances with refrigerant (fridges, freezers, AC units) | HomeAdvisor: refrigerant (freon) removal and disposal $50–$150 ([HomeAdvisor](https://www.homeadvisor.com/cost/cleaning-services/remove-waste/)). Ready Now: $25 per fridge, freezer, or AC unit, matching its local landfill's fee ([Ready Now](https://readynowjunkremoval.com/pricing)) |
 | Paint and chemicals | College HUNKS lists paint among items with extra landfill disposal fees ([College HUNKS](https://www.collegehunkshaulingjunk.com/pricing/junk-removal-pricing/)). Same Day Haulers estimates $15–$35 per gallon ([Same Day Haulers](https://www.samedayhaulers.com/pricing)). Many haulers won't take hazardous materials at all |
-| Hot tubs | College HUNKS says hot tubs may cost more because of disassembly time ([College HUNKS](https://www.collegehunkshaulingjunk.com/pricing/junk-removal-pricing/)). Angi: $200–$600 ([Angi](https://www.angi.com/articles/how-much-does-junk-removal-cost.htm)) |
+| Hot tubs | College HUNKS says hot tubs may cost more because of disassembly time ([College HUNKS](https://www.collegehunkshaulingjunk.com/pricing/junk-removal-pricing/)). Angi: $200–$600 ([Angi](https://www.angi.com/articles/how-much-does-junk-removal-cost.htm)). Full breakdown: [Hot tub removal](/hot-tub-removal-cost-and-options/) |
 
 Some items are refused outright. See [What junk removal companies won't take](/what-junk-removal-companies-wont-take/) before you book.
 
